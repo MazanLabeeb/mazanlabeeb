@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working as a part time freelancer on **upwork**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Want to work with me?</h3>
 <p align="left">
-<a href="https://upwork.com/freelancer/mazanlabeeb" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" alt="mazanlabeeb" height="30" width="40" /></a>
+<a href="https://upwork.com/freelancer/mazanlabeeb" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" alt="mazanlabeeb" height="30" width="30" /></a>
 
 </p>
 
