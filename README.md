@@ -9,7 +9,7 @@
 
 <h3 align="left">Want to work with me?</h3>
 <p align="left">
-<a href="https://upwork.com/freelancer/mazanlabeeb" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" alt="mazanlabeeb" height="30" width="30" /></a>
+<a href="https://upwork.com/freelancers/mazanlabeeb" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11737042?s=200&v=4" alt="mazanlabeeb" height="30" width="30" /></a>
 
 </p>
 
