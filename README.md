@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack MERN developer</h3>
 
 
-- 🔭 I’m currently working as a part time freelancer on **upwork**
+- 🔭 I’m currently working as a full time freelancer on **upwork**
 
 <h3 align="left">Want to work with me?</h3>
 <p align="left">
