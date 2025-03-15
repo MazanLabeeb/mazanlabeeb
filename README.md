@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mazan Labeeb</h1>
-<h3 align="center">A passionate full stack MERN developer</h3>
+<h3 align="center">A passionate full stack Software Engineer</h3>
 
 
 - 🔭 I’m currently working as a full time freelancer on **upwork**
